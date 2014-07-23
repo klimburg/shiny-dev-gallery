@@ -35,7 +35,7 @@ shinyUI(fluidPage(
         p("Current Value:", style = "color:#888888;"), 
         verbatimTextOutput("action"),
         a("See Code", class = "btn btn-primary btn-md", 
-          href = "https://garrett.shinyapps.io/action-button/")
+          href = "https://gallery.shinyapps.io/widget-action-button/")
       )),
     
     column(4,
@@ -47,7 +47,7 @@ shinyUI(fluidPage(
         p("Current Value:", style = "color:#888888;"), 
         verbatimTextOutput("checkbox"),
         a("See Code", class = "btn btn-primary btn-md",  
-          href = "https://garrett.shinyapps.io/checkbox/")
+          href = "https://gallery.shinyapps.io/widget-checkbox/")
       )),
     
     column(4,
@@ -61,7 +61,7 @@ shinyUI(fluidPage(
         p("Current Values:", style = "color:#888888;"), 
         verbatimTextOutput("checkGroup"),
         a("See Code", class = "btn btn-primary btn-md", 
-          href = "https://garrett.shinyapps.io/check-group/")
+          href = "https://gallery.shinyapps.io/widget-check-group/")
       ))
   ),
   
@@ -74,7 +74,7 @@ shinyUI(fluidPage(
         p("Current Value:", style = "color:#888888;"), 
         verbatimTextOutput("date"),
         a("See Code", class = "btn btn-primary btn-md",  
-          href = "https://garrett.shinyapps.io/date/")
+          href = "https://gallery.shinyapps.io/widget-date/")
       )),
     
     column(4,
@@ -84,7 +84,7 @@ shinyUI(fluidPage(
         p("Current Values:", style = "color:#888888;"), 
         verbatimTextOutput("dates"),
         a("See Code", class = "btn btn-primary btn-md",  
-          href = "https://garrett.shinyapps.io/date-range/")
+          href = "https://gallery.shinyapps.io/widget-date-range/")
       )),
     
     column(4,
@@ -94,7 +94,7 @@ shinyUI(fluidPage(
         p("Current Value:", style = "color:#888888;"), 
         verbatimTextOutput("file"),
         a("See Code", class = "btn btn-primary btn-md",  
-          href = "https://garrett.shinyapps.io/file/")
+          href = "https://gallery.shinyapps.io/widget-file/")
       ))
   ),
   
@@ -107,7 +107,7 @@ shinyUI(fluidPage(
         p("Current Value:", style = "color:#888888;"), 
         verbatimTextOutput("num"),
         a("See Code", class = "btn btn-primary btn-md",  
-          href = "https://garrett.shinyapps.io/numeric/")
+          href = "https://gallery.shinyapps.io/widget-numeric/")
       )),
     
     column(4,
@@ -119,7 +119,7 @@ shinyUI(fluidPage(
         p("Current Values:", style = "color:#888888;"), 
         verbatimTextOutput("radio"),
         a("See Code", class = "btn btn-primary btn-md",  
-          href = "https://garrett.shinyapps.io/radio/")
+          href = "https://gallery.shinyapps.io/widget-radio/")
       )),
     
     column(4,
@@ -131,7 +131,7 @@ shinyUI(fluidPage(
         p("Current Value:", style = "color:#888888;"), 
         verbatimTextOutput("select"),
         a("See Code", class = "btn btn-primary btn-md",  
-          href = "https://garrett.shinyapps.io/select/")
+          href = "https://gallery.shinyapps.io/widget-select/")
       ))
   ),
   
@@ -145,7 +145,7 @@ shinyUI(fluidPage(
         p("Current Value:", style = "color:#888888;"), 
         verbatimTextOutput("slider1"),
         a("See Code", class = "btn btn-primary btn-md",  
-          href = "https://garrett.shinyapps.io/slider/")
+          href = "https://gallery.shinyapps.io/widget-slider/")
       )),
     
     column(4,
@@ -156,7 +156,7 @@ shinyUI(fluidPage(
         p("Current Values:", style = "color:#888888;"), 
         verbatimTextOutput("slider2"),
         a("See Code", class = "btn btn-primary btn-md",  
-          href = "https://garrett.shinyapps.io/slider/")
+          href = "https://gallery.shinyapps.io/widget-slider/")
       )),
     
     column(4,
@@ -167,7 +167,7 @@ shinyUI(fluidPage(
         p("Current Value:", style = "color:#888888;"), 
         verbatimTextOutput("text"),
         a("See Code", class = "btn btn-primary btn-md",  
-          href = "https://garrett.shinyapps.io/text/")
+          href = "https://gallery.shinyapps.io/widget-text/")
     )) 
   )
 
