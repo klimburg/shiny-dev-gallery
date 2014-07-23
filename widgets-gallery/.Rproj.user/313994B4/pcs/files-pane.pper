@@ -1,0 +1,9 @@
+{
+    "path" : "~/Documents/widgets",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

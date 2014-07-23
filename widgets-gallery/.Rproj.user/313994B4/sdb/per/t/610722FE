@@ -1,0 +1,16 @@
+{
+    "contents" : "library(shiny)\n\nshinyServer(function(input, output) {\n\n  output$action <- renderPrint({ input$action })\n  output$checkbox <- renderPrint({ input$checkbox })\n  output$checkGroup <- renderPrint({ input$checkGroup })\n  output$date <- renderPrint({ input$date })\n  output$dates <- renderPrint({ input$dates })\n  output$file <- renderPrint({ input$file })\n  output$num <- renderPrint({ input$num })\n  output$radio <- renderPrint({ input$radio })\n  output$select <- renderPrint({ input$select })\n  output$slider1 <- renderPrint({ input$slider1 })\n  output$slider2 <- renderPrint({ input$slider2 })\n  #output$submit <- renderPrint({ input$submit })\n  output$text <- renderPrint({ input$text })\n\n})\n",
+    "created" : 1399654902705.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "204917846",
+    "id" : "610722FE",
+    "lastKnownWriteTime" : 1399654909,
+    "path" : "~/Documents/widgets/server.R",
+    "project_path" : "server.R",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

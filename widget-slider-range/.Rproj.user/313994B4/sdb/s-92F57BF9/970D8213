@@ -1,0 +1,16 @@
+{
+    "contents" : "shinyUI(fluidPage(\n    \n  # The code below inserts an action button into the UI.\n  # You can access the value of this widget in server.R\n  # with input$action\n  actionButton(\"action\", label = \"Action\")\n  \n))\n",
+    "created" : 1399492114644.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2801242895",
+    "id" : "970D8213",
+    "lastKnownWriteTime" : 1399492425,
+    "path" : "~/Desktop/action-button/ui.R",
+    "project_path" : "ui.R",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

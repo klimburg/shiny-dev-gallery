@@ -1,0 +1,16 @@
+{
+    "contents" : "shinyServer(function(input, output) {\n\n  # You can access the value of the widget with input$action, e.g.\n  # output$print <- renderPrint({ input$action })\n\n})\n",
+    "created" : 1399492114782.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3936495832",
+    "id" : "A93BCF1E",
+    "lastKnownWriteTime" : 1399492423,
+    "path" : "~/Desktop/action-button/server.R",
+    "project_path" : "server.R",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

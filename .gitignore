@@ -6,3 +6,14 @@
 
 # R data files from past sessions
 .Rdata
+
+# ShinyApps.io folders
+shinyapps/
+
+# Mac files
+.DS_Store
+
+# RStudio projects
+*.Rproj
+
+
